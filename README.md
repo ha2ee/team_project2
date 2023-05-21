@@ -38,17 +38,15 @@
   * 구매와 입찰 테이블에서 데이터를 가져와 최저가 노출 시켜줌.
   * 최근 거래가의 시세 그래프
 
+## 🔖DB 구성
+![image](https://github.com/ha2ee/team_project2/assets/115638416/f740f7ca-6c91-4a95-a2f6-79b56bfdfaab)
 
-    
 
 ## 이미지 자료
 ![image](https://user-images.githubusercontent.com/115638416/232539493-413a7825-22a3-4a0d-b937-c92ba038bf14.png)
 ![image](https://user-images.githubusercontent.com/115638416/232538635-95481c2e-394e-4016-a085-522675c15290.png)
 ![image](https://user-images.githubusercontent.com/115638416/232954661-0a1961ec-056d-4eed-ba3d-4ba1acd0c61e.png)
 
-
-## 🔖DB 구성
-![image](https://github.com/ha2ee/team_project2/assets/115638416/f740f7ca-6c91-4a95-a2f6-79b56bfdfaab)
 
 
 ### 🔄업데이트 내역
