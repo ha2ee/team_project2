@@ -48,7 +48,7 @@
 
 
 ## 🔖DB 구성
-업로드 예정.
+![image](https://github.com/ha2ee/team_project2/assets/115638416/f740f7ca-6c91-4a95-a2f6-79b56bfdfaab)
 
 
 ### 🔄업데이트 내역
