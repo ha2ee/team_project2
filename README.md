@@ -47,6 +47,14 @@
 ![image](https://user-images.githubusercontent.com/115638416/232538635-95481c2e-394e-4016-a085-522675c15290.png)
 ![image](https://user-images.githubusercontent.com/115638416/232954661-0a1961ec-056d-4eed-ba3d-4ba1acd0c61e.png)
 
+![image](https://github.com/ha2ee/team_project2/assets/115638416/67622af7-0335-41e6-bb7e-c0676281108e)
+![image](https://github.com/ha2ee/team_project2/assets/115638416/bba62ec2-69f5-451f-8f4e-2f193c3e0398)
+![image](https://github.com/ha2ee/team_project2/assets/115638416/3899bf85-abe9-4454-9f99-5405ff7ccb74)
+![image](https://github.com/ha2ee/team_project2/assets/115638416/ca830ec3-bb12-4312-b4db-1009b9dfb691)
+![image](https://github.com/ha2ee/team_project2/assets/115638416/afda607f-5645-4be9-ac40-3f7740e3df69)
+![image](https://github.com/ha2ee/team_project2/assets/115638416/150fc199-2f7c-442c-8226-24b17e3c692d)
+![image](https://github.com/ha2ee/team_project2/assets/115638416/e1b0d0ee-ce4b-48f3-a21a-8df67be29588)
+
 
 
 ### 🔄업데이트 내역
